@@ -3,7 +3,8 @@ Trabajo de investigación IC UNSA I SEMESTRE
 ## REQUIRES .NET CORE 3.1
 
 https://dotnet.microsoft.com/download/dotnet/3.1
-
+## REQUIERES .NET CORE DESKTOP RUNTIME
+https://dotnet.microsoft.com/download/dotnet/3.1/runtime?utm_source=getdotnetcore&utm_medium=referral
  
 ## PARA VER EL CÓDIGO
 -Se necesita .NET CORE 3.1 o superior
