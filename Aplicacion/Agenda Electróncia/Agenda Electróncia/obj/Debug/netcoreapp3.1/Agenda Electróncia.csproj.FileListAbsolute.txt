@@ -1,0 +1,19 @@
+C:\Users\PC\source\repos\Agenda Electróncia\Agenda Electróncia\bin\Debug\netcoreapp3.1\Agenda Electróncia.exe
+C:\Users\PC\source\repos\Agenda Electróncia\Agenda Electróncia\bin\Debug\netcoreapp3.1\Agenda Electróncia.deps.json
+C:\Users\PC\source\repos\Agenda Electróncia\Agenda Electróncia\bin\Debug\netcoreapp3.1\Agenda Electróncia.runtimeconfig.json
+C:\Users\PC\source\repos\Agenda Electróncia\Agenda Electróncia\bin\Debug\netcoreapp3.1\Agenda Electróncia.runtimeconfig.dev.json
+C:\Users\PC\source\repos\Agenda Electróncia\Agenda Electróncia\bin\Debug\netcoreapp3.1\Agenda Electróncia.dll
+C:\Users\PC\source\repos\Agenda Electróncia\Agenda Electróncia\bin\Debug\netcoreapp3.1\Agenda Electróncia.pdb
+C:\Users\PC\source\repos\Agenda Electróncia\Agenda Electróncia\obj\Debug\netcoreapp3.1\Agenda Electróncia.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Agenda Electróncia\Agenda Electróncia\obj\Debug\netcoreapp3.1\Agenda_Electróncia.addContact.resources
+C:\Users\PC\source\repos\Agenda Electróncia\Agenda Electróncia\obj\Debug\netcoreapp3.1\Agenda_Electróncia.deleteContact.resources
+C:\Users\PC\source\repos\Agenda Electróncia\Agenda Electróncia\obj\Debug\netcoreapp3.1\Agenda_Electróncia.AgendaInicio.resources
+C:\Users\PC\source\repos\Agenda Electróncia\Agenda Electróncia\obj\Debug\netcoreapp3.1\Agenda_Electróncia.AgendaLista.resources
+C:\Users\PC\source\repos\Agenda Electróncia\Agenda Electróncia\obj\Debug\netcoreapp3.1\Agenda_Electróncia.Properties.Resources.resources
+C:\Users\PC\source\repos\Agenda Electróncia\Agenda Electróncia\obj\Debug\netcoreapp3.1\Agenda Electróncia.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\Agenda Electróncia\Agenda Electróncia\obj\Debug\netcoreapp3.1\Agenda Electróncia.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Agenda Electróncia\Agenda Electróncia\obj\Debug\netcoreapp3.1\Agenda Electróncia.AssemblyInfo.cs
+C:\Users\PC\source\repos\Agenda Electróncia\Agenda Electróncia\obj\Debug\netcoreapp3.1\Agenda Electróncia.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Agenda Electróncia\Agenda Electróncia\obj\Debug\netcoreapp3.1\Agenda Electróncia.dll
+C:\Users\PC\source\repos\Agenda Electróncia\Agenda Electróncia\obj\Debug\netcoreapp3.1\Agenda Electróncia.pdb
+C:\Users\PC\source\repos\Agenda Electróncia\Agenda Electróncia\obj\Debug\netcoreapp3.1\Agenda Electróncia.genruntimeconfig.cache
