@@ -1,0 +1,13 @@
+D:\VisualStudioCodes\Basico2\Basico2\bin\Debug\netcoreapp3.1\Basico2.exe
+D:\VisualStudioCodes\Basico2\Basico2\bin\Debug\netcoreapp3.1\Basico2.deps.json
+D:\VisualStudioCodes\Basico2\Basico2\bin\Debug\netcoreapp3.1\Basico2.runtimeconfig.json
+D:\VisualStudioCodes\Basico2\Basico2\bin\Debug\netcoreapp3.1\Basico2.runtimeconfig.dev.json
+D:\VisualStudioCodes\Basico2\Basico2\bin\Debug\netcoreapp3.1\Basico2.dll
+D:\VisualStudioCodes\Basico2\Basico2\bin\Debug\netcoreapp3.1\Basico2.pdb
+D:\VisualStudioCodes\Basico2\Basico2\obj\Debug\netcoreapp3.1\Basico2.csproj.AssemblyReference.cache
+D:\VisualStudioCodes\Basico2\Basico2\obj\Debug\netcoreapp3.1\Basico2.AssemblyInfoInputs.cache
+D:\VisualStudioCodes\Basico2\Basico2\obj\Debug\netcoreapp3.1\Basico2.AssemblyInfo.cs
+D:\VisualStudioCodes\Basico2\Basico2\obj\Debug\netcoreapp3.1\Basico2.csproj.CoreCompileInputs.cache
+D:\VisualStudioCodes\Basico2\Basico2\obj\Debug\netcoreapp3.1\Basico2.dll
+D:\VisualStudioCodes\Basico2\Basico2\obj\Debug\netcoreapp3.1\Basico2.pdb
+D:\VisualStudioCodes\Basico2\Basico2\obj\Debug\netcoreapp3.1\Basico2.genruntimeconfig.cache
