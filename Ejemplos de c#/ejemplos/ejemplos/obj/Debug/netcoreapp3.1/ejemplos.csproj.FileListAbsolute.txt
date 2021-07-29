@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\ejemplos\ejemplos\bin\Debug\netcoreapp3.1\ejemplos.exe
+C:\Users\HP\source\repos\ejemplos\ejemplos\bin\Debug\netcoreapp3.1\ejemplos.deps.json
+C:\Users\HP\source\repos\ejemplos\ejemplos\bin\Debug\netcoreapp3.1\ejemplos.runtimeconfig.json
+C:\Users\HP\source\repos\ejemplos\ejemplos\bin\Debug\netcoreapp3.1\ejemplos.runtimeconfig.dev.json
+C:\Users\HP\source\repos\ejemplos\ejemplos\bin\Debug\netcoreapp3.1\ejemplos.dll
+C:\Users\HP\source\repos\ejemplos\ejemplos\bin\Debug\netcoreapp3.1\ejemplos.pdb
+C:\Users\HP\source\repos\ejemplos\ejemplos\obj\Debug\netcoreapp3.1\ejemplos.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\ejemplos\ejemplos\obj\Debug\netcoreapp3.1\ejemplos.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ejemplos\ejemplos\obj\Debug\netcoreapp3.1\ejemplos.AssemblyInfo.cs
+C:\Users\HP\source\repos\ejemplos\ejemplos\obj\Debug\netcoreapp3.1\ejemplos.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ejemplos\ejemplos\obj\Debug\netcoreapp3.1\ejemplos.dll
+C:\Users\HP\source\repos\ejemplos\ejemplos\obj\Debug\netcoreapp3.1\ejemplos.pdb
+C:\Users\HP\source\repos\ejemplos\ejemplos\obj\Debug\netcoreapp3.1\ejemplos.genruntimeconfig.cache
