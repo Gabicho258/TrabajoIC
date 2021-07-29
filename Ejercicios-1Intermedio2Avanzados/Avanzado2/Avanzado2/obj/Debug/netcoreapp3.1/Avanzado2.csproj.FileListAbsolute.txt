@@ -1,0 +1,13 @@
+D:\VisualStudioCodes\Avanzado2\Avanzado2\bin\Debug\netcoreapp3.1\Avanzado2.exe
+D:\VisualStudioCodes\Avanzado2\Avanzado2\bin\Debug\netcoreapp3.1\Avanzado2.deps.json
+D:\VisualStudioCodes\Avanzado2\Avanzado2\bin\Debug\netcoreapp3.1\Avanzado2.runtimeconfig.json
+D:\VisualStudioCodes\Avanzado2\Avanzado2\bin\Debug\netcoreapp3.1\Avanzado2.runtimeconfig.dev.json
+D:\VisualStudioCodes\Avanzado2\Avanzado2\bin\Debug\netcoreapp3.1\Avanzado2.dll
+D:\VisualStudioCodes\Avanzado2\Avanzado2\bin\Debug\netcoreapp3.1\Avanzado2.pdb
+D:\VisualStudioCodes\Avanzado2\Avanzado2\obj\Debug\netcoreapp3.1\Avanzado2.csproj.AssemblyReference.cache
+D:\VisualStudioCodes\Avanzado2\Avanzado2\obj\Debug\netcoreapp3.1\Avanzado2.AssemblyInfoInputs.cache
+D:\VisualStudioCodes\Avanzado2\Avanzado2\obj\Debug\netcoreapp3.1\Avanzado2.AssemblyInfo.cs
+D:\VisualStudioCodes\Avanzado2\Avanzado2\obj\Debug\netcoreapp3.1\Avanzado2.csproj.CoreCompileInputs.cache
+D:\VisualStudioCodes\Avanzado2\Avanzado2\obj\Debug\netcoreapp3.1\Avanzado2.dll
+D:\VisualStudioCodes\Avanzado2\Avanzado2\obj\Debug\netcoreapp3.1\Avanzado2.pdb
+D:\VisualStudioCodes\Avanzado2\Avanzado2\obj\Debug\netcoreapp3.1\Avanzado2.genruntimeconfig.cache
