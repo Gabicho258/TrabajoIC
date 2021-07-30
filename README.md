@@ -25,4 +25,4 @@ https://visualstudio.microsoft.com/es/thank-you-downloading-visual-studio/?sku=C
 -Todos los programas con extensión .sln le permitirá ver todos los proyectos y código
 
 ## Espero sea de su agrado!
-
+> **Postada:** Cuenta de GitHub "Gabicho" es Gabriel Antony Mamani Cañari. La cuenta ya la tenía creada desde antes para desarrollo de videojuegos con unity y por eso se puso ese usuario o pseudonimo dentro de los videojuegos
